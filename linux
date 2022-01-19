@@ -1,0 +1,40 @@
+# linux
+turn on linux
+sudo apt install libreoffice sudo apt install li
+bash: sudo: command not found
+ 
+
+Replit: Updating package configuration
+
+--> write pom.xml
+--> mvn '<secret sauce>' dependency:copy-dependencies
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/usr/share/maven/lib/guice.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< mygroupid:myartifactid >-----------------------
+[INFO] Building myartifactid 0.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- go-offline-maven-plugin:1.2.5:resolve-dependencies (default-cli) @ myartifactid ---
+
+
+Replit: Packaging cannot be stopped, please wait...
+
+[INFO] 
+[INFO] -----------------------< mygroupid:myartifactid >-----------------------
+[INFO] Building myartifactid 0.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:copy-dependencies (default-cli) @ myartifactid ---
+[INFO] Copying tma-linux-0.0.1.pom to /home/runner/linux/target/dependency/tma-linux-0.0.1.pom
+[INFO] Copying tma-assembler-0.0.1.jar to /home/runner/linux/target/dependency/tma-assembler-0.0.1.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  40.113 s
+[INFO] Finished at: 2022-01-19T15:16:05Z
+[INFO] ------------------------------------------------------------------------
